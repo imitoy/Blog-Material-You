@@ -12,8 +12,6 @@ blog/data/
 
 # Content: personal files stay local; the repo ships the example files only
 # (replace or extend the examples with your own posts/pages/talks/friends).
-blog/posts/*.md
-!blog/posts/hello-world.md
 blog/pages/*.md
 !blog/pages/about.md
 blog/talks/*.md
