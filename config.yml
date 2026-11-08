@@ -16,13 +16,13 @@
 # ===== 站点信息 =====
 
 # 站点名称。显示在侧边栏、顶栏、浏览器标题与订阅源中。
-title: Blog Material You
+title: imitoy's Blog
 
 # 副标题 / 一句话简介。显示在侧边栏站点名称下方。
 subtitle: 暂无简介
 
 # 站点描述。用于页面的 meta description 与 Open Graph；留空则沿用 subtitle。
-description: 一个使用 Node.js 与 Material You 构建的博客
+description: No blog desc.
 
 # 关键词（数组）。写入页面的 meta keywords，可留空。
 keywords: []
@@ -35,18 +35,18 @@ language: zh-CN
 
 # 站点对外地址，用于 canonical 链接、sitemap.xml 与 rss.xml。
 # 例如 https://blog.example.com（末尾不要加 /）。留空则使用相对路径。
-url: ''
+url: 'https://blog.imitoy.top'
 
 # ===== 外观 =====
 
 # 头像图片地址（相对于 public 目录，或完整的 http(s) 地址）。
-avatar: /img/avatar.svg
+avatar: /img/avatar.png
 
 # 页脚版权文字。
 copyright: © 2025 Blog Material You
 
 # 侧边栏 / 页脚展示的 GitHub 地址，可留空。
-github: https://github.com/yourname/blog
+github: https://github.com/imitoy/Blog-Material-You
 
 theme:
   # 主题色。mdui 会据此生成整套 Material You 配色方案，同时作为浏览器地址栏

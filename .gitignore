@@ -54,3 +54,6 @@ project_dump.txt
 # OS / editor
 .DS_Store
 Thumbs.db
+
+pnpm-lock.yaml
+pnpm-workspace.yaml

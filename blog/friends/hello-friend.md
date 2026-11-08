@@ -1,10 +1,9 @@
 ---
 id: 1
-title: 示例友链
-descr: 这是一个示例友链站点
-title_en: Example Friend
-descr_en: An example friend link
-url: 'https://example.com'
+title: CarryRao
+descr: 前端小菜鸡，后端半吊子
+url: 'https://carryrao.top'
+avatar: 'https://avatars.githubusercontent.com/u/148552102?v=4'
 sort_order: 0
 ---
 
